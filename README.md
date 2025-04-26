@@ -22,7 +22,7 @@ If you’re looking for someone who loves turning ideas into reality — **let�
 
 <h3 align="left">Connections!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF&color:FFF)](mailto:zcauanzim26@gmail.com)
+
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFFFFF&color:FFF)](https://www.instagram.com/ocaua.alves/)
 
 
