@@ -6,7 +6,7 @@
 
 ---
 
-Hi! 👋 I'm a tech enthusiast and Software Engineering student.  
+Hi! 👋 I'm a tech enthusiast and Systems analysis and development student.  
 I'm passionate about **coding**, **solving problems**, and **creating innovative solutions**.  
 If you’re looking for someone who loves turning ideas into reality — **let’s connect!** 🚀
 
@@ -14,7 +14,7 @@ If you’re looking for someone who loves turning ideas into reality — **let�
 
 📌 &nbsp;Feel free to explore my repositories or reach out for collaboration!
 
-- 🌱 I’m currently learning HTML, CSS , JAVASCRIPT and JAVA.
+- 🌱 I’m currently learning JAVA.
 <br>
 
 #
